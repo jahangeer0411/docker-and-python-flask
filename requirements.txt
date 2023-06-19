@@ -1,0 +1,8 @@
+flask
+flask-salalchemy
+flask_wtf
+wtforms
+email-validator
+flask-bcrypt
+flask_login
+psycopg2
